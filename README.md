@@ -2,6 +2,6 @@
 
 |kore ha| tabel desu|
 |:----------|--------:|
-RRR
+RRR｜
 BBB
 CCC
